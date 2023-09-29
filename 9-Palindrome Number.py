@@ -3,7 +3,6 @@
 # ------------------------------------
 class Solution(object):
     def isPalindrome(self, x):
-        x1 = x
         arr = []
         if x >= 10:
             while x > 0:
